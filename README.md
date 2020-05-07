@@ -1,6 +1,6 @@
 # DocuSeg - An Open-Source GAN for Document Analysis
 
-![Sample Segmentation](/results_pix2pix/sample.jpg)
+![Sample Segmentation](/plots_pix2pix/plot_449800.png)
 
 This repo provides two open-source GANs (Pix2Pix and CycleGAN) that have been trained on IBM's open-source document dataset (PubLayNet)
 
